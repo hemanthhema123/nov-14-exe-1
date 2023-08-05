@@ -1,0 +1,6 @@
+setup workspace
+open git bash
+cd ~/(changing directory into home location)
+mkdir <folder name>{ex:devops}(making directory)
+cd <folder name>{ex:devops}(changing directory into what folder we create)
+code .(to open visual studio code[vs code])
